@@ -1,0 +1,2 @@
+kernel=kernel7.img
+disable_commandline_tags=1
