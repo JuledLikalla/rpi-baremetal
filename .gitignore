@@ -1,0 +1,4 @@
+*.img
+kernel7.elf
+*.dtb
+*.dts
