@@ -3,3 +3,4 @@ kernel7.elf
 *.dtb
 *.dts
 *.o
+u-boot/
